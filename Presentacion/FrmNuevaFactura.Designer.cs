@@ -52,11 +52,11 @@
             // 
             this.lblNroFactura.AutoSize = true;
             this.lblNroFactura.Font = new System.Drawing.Font("Arial Rounded MT Bold", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNroFactura.Location = new System.Drawing.Point(480, 9);
+            this.lblNroFactura.Location = new System.Drawing.Point(457, 9);
             this.lblNroFactura.Name = "lblNroFactura";
-            this.lblNroFactura.Size = new System.Drawing.Size(264, 43);
+            this.lblNroFactura.Size = new System.Drawing.Size(291, 43);
             this.lblNroFactura.TabIndex = 0;
-            this.lblNroFactura.Text = "FACTURA N°:";
+            this.lblNroFactura.Text = "FACTURA N°:   ";
             // 
             // lblFecha
             // 
@@ -151,21 +151,21 @@
             // cboArticulos
             // 
             this.cboArticulos.FormattingEnabled = true;
-            this.cboArticulos.Location = new System.Drawing.Point(15, 178);
+            this.cboArticulos.Location = new System.Drawing.Point(20, 168);
             this.cboArticulos.Name = "cboArticulos";
             this.cboArticulos.Size = new System.Drawing.Size(446, 21);
             this.cboArticulos.TabIndex = 11;
             // 
             // txtCantidad
             // 
-            this.txtCantidad.Location = new System.Drawing.Point(479, 178);
+            this.txtCantidad.Location = new System.Drawing.Point(484, 168);
             this.txtCantidad.Name = "txtCantidad";
             this.txtCantidad.Size = new System.Drawing.Size(147, 20);
             this.txtCantidad.TabIndex = 12;
             // 
             // btnAgregar
             // 
-            this.btnAgregar.Location = new System.Drawing.Point(644, 175);
+            this.btnAgregar.Location = new System.Drawing.Point(649, 165);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(144, 23);
             this.btnAgregar.TabIndex = 13;
